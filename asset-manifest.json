@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/reactbelajar/static/css/main.aebb7207.chunk.css",
+    "main.js": "/reactbelajar/static/js/main.829ee457.chunk.js",
+    "main.js.map": "/reactbelajar/static/js/main.829ee457.chunk.js.map",
+    "runtime-main.js": "/reactbelajar/static/js/runtime-main.7d4e0b0e.js",
+    "runtime-main.js.map": "/reactbelajar/static/js/runtime-main.7d4e0b0e.js.map",
+    "static/js/2.b6f2604e.chunk.js": "/reactbelajar/static/js/2.b6f2604e.chunk.js",
+    "static/js/2.b6f2604e.chunk.js.map": "/reactbelajar/static/js/2.b6f2604e.chunk.js.map",
+    "index.html": "/reactbelajar/index.html",
+    "precache-manifest.9d9760862990dc115fa6193c2b7ba82f.js": "/reactbelajar/precache-manifest.9d9760862990dc115fa6193c2b7ba82f.js",
+    "service-worker.js": "/reactbelajar/service-worker.js",
+    "static/css/main.aebb7207.chunk.css.map": "/reactbelajar/static/css/main.aebb7207.chunk.css.map",
+    "static/js/2.b6f2604e.chunk.js.LICENSE.txt": "/reactbelajar/static/js/2.b6f2604e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7d4e0b0e.js",
+    "static/js/2.b6f2604e.chunk.js",
+    "static/css/main.aebb7207.chunk.css",
+    "static/js/main.829ee457.chunk.js"
+  ]
+}
